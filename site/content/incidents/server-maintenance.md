@@ -9,6 +9,6 @@ affectedsystems = [
   "Prison Server",
   "KitPvP Server"
 ]
-resolved = false
+resolved = true
 +++
-Servers will be down as we perform maintenace.
+Servers are back up and you may now login!
