@@ -1,9 +1,9 @@
 [descriptions]
-  ok = "Up and Running"
+  ok = "Online"
   under-maintenance = "Under Maintenance"
-  downgraded-performance = "Down"
-  partial-outage = "Partial outage"
-  major-outage = "Major outage"
+  downgraded-performance = "Offline"
+  partial-outage = "Partial Outage"
+  major-outage = "Major Outage"
 
 [alerts]
   ok = "ok"
