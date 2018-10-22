@@ -6,11 +6,11 @@ title = "StatusKit"
   incidents = "/incidents/:year/:month/:day/:slug/"
 
 [params]
-  defaultLogo = "https://images-na.ssl-images-amazon.com/images/I/711phug4vyL.png"
+  defaultLogo = "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwia3pCajZneAhXmct8KHRGIAjIQjRx6BAgBEAU&url=https%3A%2F%2Fwww.deviantart.com%2Fllexandro%2Fart%2F3D-The-Elder-Scrolls-Online-Ouroboros-Logo-2-576365132&psig=AOvVaw00R6rVDhUqq6ai2lh9K0fb&ust=1540265209853642"
   faviconsPath = "/images/favicon/"
 
 # List of systems monitored in this status page.
 # You'll be able to change their status every time
 # you open or update an incident.
 # Replace these examples with your own system names.
-systems = ["XB1: NA", "XB1: EU", "PS4: NA", "PS4: EU", "PC: NA", "PC: EU"]
+systems = ["XB1: NA", "XB1: EU", "PS4: NA", "PS4: EU", "PC: NA", "PC: EU",]

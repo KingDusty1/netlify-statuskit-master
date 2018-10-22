@@ -9,7 +9,7 @@ date = {{ .Date }}
 # This is the list of supported severities:
 #
 # - under-maintenance
-# - down
+# - degraded-performance
 # - partial-outage
 # - major-outage
 #
