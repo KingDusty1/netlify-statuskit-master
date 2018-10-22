@@ -6,7 +6,7 @@ title = "StatusKit"
   incidents = "/incidents/:year/:month/:day/:slug/"
 
 [params]
-  defaultLogo = "https://www.netlify.com/img/press/logos/logomark.svg"
+  defaultLogo = "https://images-na.ssl-images-amazon.com/images/I/711phug4vyL.png"
   faviconsPath = "/images/favicon/"
 
 # List of systems monitored in this status page.
